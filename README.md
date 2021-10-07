@@ -25,7 +25,7 @@ Wi-Fi/Bluetooth: Qualcomm Chipset Qualcomm
 
 EDA : Altium®
 
-![nxparman](https://user-images.githubusercontent.com/20875467/136377752-63b5a8f6-3f6b-4a38-9aa2-7bcd47875bce.PNG)
+![imx8m](https://user-images.githubusercontent.com/20875467/136380296-03939aa4-e670-4e0c-8cd8-558230ead868.PNG)
 ![cp2](https://user-images.githubusercontent.com/20875467/136378231-682880b9-eec2-4896-b2ce-605a3ca8bca2.JPG)
 ![Cp1](https://user-images.githubusercontent.com/20875467/136378313-6321d010-f9d8-41df-92ef-a951aba25257.JPG)
 ![mynxp](https://user-images.githubusercontent.com/20875467/136378813-556f1c6d-afc5-4a39-9066-3dcc885ff897.JPG)
