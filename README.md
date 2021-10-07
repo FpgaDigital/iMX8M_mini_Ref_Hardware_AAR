@@ -24,3 +24,5 @@ Wi-Fi/Bluetooth: Qualcomm Chipset Qualcomm
 802.11a/b/g/n/ac + Bluetooth 5.0 (Dual)
 
 EDA : Altium®
+
+![nxparman](https://user-images.githubusercontent.com/20875467/136377752-63b5a8f6-3f6b-4a38-9aa2-7bcd47875bce.PNG)
