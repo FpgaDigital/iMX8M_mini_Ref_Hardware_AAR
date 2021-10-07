@@ -6,7 +6,7 @@ Please be diligent in maintaining and publishing it because a lot of time has be
 Please publish the file only through my GitHub link.
 If you would like to donate to this project, please let me know or you can use the wallet address in this file.
 
-wallet adderss : 31ompdfvyzh3badptpLSf1GQiPMQUk7S2X
+## wallet adderss : 31ompdfvyzh3badptpLSf1GQiPMQUk7S2X
 
 
 CPU : i.MX 8M Mini Quad applications processor , 4x Cortex-A53 @ 1.8 GHz , 1x Cortex-M4 @ 400 MHz
@@ -23,7 +23,7 @@ Wireless :
 Wi-Fi/Bluetooth: Qualcomm Chipset Qualcomm
 802.11a/b/g/n/ac + Bluetooth 5.0 (Dual)
 
-EDA : Altium®
+## EDA : Altium®
 
 ![imx8m](https://user-images.githubusercontent.com/20875467/136380296-03939aa4-e670-4e0c-8cd8-558230ead868.PNG)
 ![cp2](https://user-images.githubusercontent.com/20875467/136378231-682880b9-eec2-4896-b2ce-605a3ca8bca2.JPG)
