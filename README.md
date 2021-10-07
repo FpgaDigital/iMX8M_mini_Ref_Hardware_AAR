@@ -6,7 +6,8 @@ Please be diligent in maintaining and publishing it because a lot of time has be
 Please publish the file only through my GitHub link.
 If you would like to donate to this project, please let me know or you can use the wallet address in this file.
 
-## wallet adderss : 31ompdfvyzh3badptpLSf1GQiPMQUk7S2X
+## wallet adderss
+## USDT TRC20 : TLmiqWeHk4TkJDkn2GhnbECqW48pgjgKQY
 
 
 CPU : i.MX 8M Mini Quad applications processor , 4x Cortex-A53 @ 1.8 GHz , 1x Cortex-M4 @ 400 MHz
