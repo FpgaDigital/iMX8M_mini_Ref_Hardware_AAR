@@ -6,7 +6,7 @@ Please be diligent in maintaining and publishing it because a lot of time has be
 Please publish the file only through my GitHub link.
 If you would like to donate to this project, please let me know or you can use the wallet address in this file.
 
-## wallet adderss
+## wallet adderss 👇 👇 👇 
 ## USDT TRC20 : TLmiqWeHk4TkJDkn2GhnbECqW48pgjgKQY
 
 
