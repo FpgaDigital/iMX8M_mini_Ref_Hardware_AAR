@@ -1,0 +1,11 @@
+Record=TopLevelDocument|FileName=P[02]_Block_Diagram.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=P[02]_Block_Diagram.SchDoc|FileName=P[04]_CPU_POWER.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=P[02]_Block_Diagram.SchDoc|FileName=P[05]_PMIC.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=P[02]_Block_Diagram.SchDoc|FileName=P[06]_LPDDR4.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=P[02]_Block_Diagram.SchDoc|FileName=P[07]_CPU_PHY.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=P[02]_Block_Diagram.SchDoc|FileName=P[08]_CPU_MISC.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=P[02]_Block_Diagram.SchDoc|FileName=P[09]_eMMC_QSPI.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=P[02]_Block_Diagram.SchDoc|FileName=P[10]WIFI_Bluetooth.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=P[02]_Block_Diagram.SchDoc|FileName=P[11]_CPU_IO.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=P[02]_Block_Diagram.SchDoc|FileName=P[12]SOM_Interface.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=P[02]_Block_Diagram.SchDoc|FileName=P[13]BOOT_CFG.SchDoc|SheetNumber= 
