@@ -6,6 +6,9 @@
 CPU : i.MX 8M Mini Quad applications processor , 4x Cortex-A53 @ 1.8 GHz , 1x Cortex-M4 @ 400 MHz
 
 ## EDA : Altium®
+If anyone wants donate :
+## wallet adderss 👇 👇 👇 
+## USDT TRC20 : TLmiqWeHk4TkJDkn2GhnbECqW48pgjgKQY
 
 ![imx8m](https://user-images.githubusercontent.com/20875467/136380296-03939aa4-e670-4e0c-8cd8-558230ead868.PNG)
 ![cp2](https://user-images.githubusercontent.com/20875467/136378231-682880b9-eec2-4896-b2ce-605a3ca8bca2.JPG)
